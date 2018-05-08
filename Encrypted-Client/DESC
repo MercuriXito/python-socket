@@ -1,0 +1,2 @@
+使用python socket、Tkinter 和 pycrypto库编写的一个实现了基本加密的客户端程序
+  使用UDP协议进行传输，私钥公钥已给出文件
