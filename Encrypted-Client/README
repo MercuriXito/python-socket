@@ -1,0 +1,7 @@
+使用python socket、Tkinter 和 pycrypto库编写的一个实现了基本加密的客户端程序
+  使用UDP协议进行传输，私钥公钥已给出文件
+  1、cipherUtil2.py，封装的加密、签名等函数
+  2、client2.py 主客户端程序，GUI界面
+  3、Communicate_Str.py 以及 Module_Str.py 常量定义
+  4、client_config.ini 主配置文件（还没实现动态配置）
+  5、host-*.pem、master-*.pem 生成的两对公私钥文件，host为默认客户端文件，master为默认本地客户端文件
